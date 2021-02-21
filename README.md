@@ -31,3 +31,10 @@
 208.67.222.222::443::DoH::https://doh.opendns.com/dns-query
 208.67.220.220::443::DoH::https://doh.opendns.com/dns-query
 ```
+**AdGuard DNS**
+```
+94.140.14.14::853::DoT::dns.adguard.com
+94.140.15.15::853::DoT::dns.adguard.com
+94.140.14.14::443::DoH::https://dns.adguard.com/dns-query
+94.140.15.15::443::DoH::https://dns.adguard.com/dns-query
+```
