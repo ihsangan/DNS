@@ -52,3 +52,10 @@
 92.38.152.163::443::DoH::https://dns.comss.one/dns-query
 93.115.24.204::443::DoH::https://dns.comss.one/dns-query
 ```
+**CIRA Canadian Shield DNS**
+```
+149.112.121.10::853::DoT::private.canadianshield.cira.ca
+149.112.122.10::853::DoT::private.canadianshield.cira.ca
+149.112.121.10::443::DoH::https://private.canadianshield.cira.ca/dns-query
+149.112.122.10::443::DoH::https://private.canadianshield.cira.ca/dns-query
+```
