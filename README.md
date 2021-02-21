@@ -19,3 +19,10 @@
 8.8.8.8::443::DoH::https://dns.google/dns-query
 8.8.4.4::443::DoH::https://dns.google/dns-query
 ```
+**Quad9**
+```
+9.9.9.9::853::DoT::dns.quad9.net
+149.112.112.112::853::DoT::dns.quad9.net
+9.9.9.9::443::DoH::https://dns.quad9.net/dns-query
+149.112.112.112::443::DoH::https://dns.quad9.net/dns-query
+```
