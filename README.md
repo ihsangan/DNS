@@ -38,3 +38,10 @@
 94.140.14.14::443::DoH::https://dns.adguard.com/dns-query
 94.140.15.15::443::DoH::https://dns.adguard.com/dns-query
 ```
+**Switch DNS**
+```
+130.59.31.248::853::DoT::dns.switch.ch
+130.59.31.251::853::DoT::dns.switch.ch
+130.59.31.248::443::DoH::https://dns.switch.ch/dns-query
+130.59.31.251::443::DoH::https://dns.switch.ch/dns-query
+```
