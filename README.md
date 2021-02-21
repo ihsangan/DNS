@@ -28,6 +28,6 @@
 ```
 **OpenDNS**
 ```
-208.67.222.222::443::https://doh.opendns.com/dns-query
-208.67.220.220::443::https://doh.opendns.com/dns-query
+208.67.222.222::443::DoH::https://doh.opendns.com/dns-query
+208.67.220.220::443::DoH::https://doh.opendns.com/dns-query
 ```
