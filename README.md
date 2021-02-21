@@ -45,3 +45,10 @@
 130.59.31.248::443::DoH::https://dns.switch.ch/dns-query
 130.59.31.251::443::DoH::https://dns.switch.ch/dns-query
 ```
+**Comss.ru DNS**
+```
+92.38.152.163::853::DoT::dns.comss.one
+93.115.24.204::853::DoT::dns.comss.one
+92.38.152.163::443::DoH::https://dns.comss.one/dns-query
+93.115.24.204::443::DoH::https://dns.comss.one/dns-query
+```
