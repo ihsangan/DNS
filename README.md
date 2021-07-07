@@ -1,5 +1,5 @@
 **Cloudflare DNS**
-```md
+```
 1.1.1.1::853::DoT::1dot1dot1dot1.cloudflare-dns.com
 1.0.0.1::853::DoT::1dot1dot1dot1.cloudflare-dns.com
 1.1.1.1::443::DoH::https://1dot1dot1dot1.cloudflare-dns.com/dns-query
