@@ -59,3 +59,4 @@
 149.112.121.10::443::DoH::https://private.canadianshield.cira.ca/dns-query
 149.112.122.10::443::DoH::https://private.canadianshield.cira.ca/dns-query
 ```
+DONE
